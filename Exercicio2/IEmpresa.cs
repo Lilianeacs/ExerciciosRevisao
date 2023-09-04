@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercicio2
 {
-    internal interface IEmpresa
+    public interface IEmpresa
     {
         
         public string ImprimirInfo();
